@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# movie-booking-app
-=======
+
 # Movie Booking Backend - Documentation
 
 ## Project Overview
